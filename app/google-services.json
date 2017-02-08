@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651900929474",
+    "firebase_url": "https://lollypop-d2ff5.firebaseio.com",
+    "project_id": "lollypop-d2ff5",
+    "storage_bucket": "lollypop-d2ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651900929474:android:2fa8e5df520488a4",
+        "android_client_info": {
+          "package_name": "com.example.shamsad.lollypop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651900929474-03jcu2umbtcff2ejup3cmc558b2ceari.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWKhPstWVgzUTrzicZiUsvsRaSQHsS8PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
